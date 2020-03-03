@@ -5,7 +5,7 @@ data "aws_availability_zones" "available" {
 # Create a new load balancer
 resource "aws_elb" "load_balancer" {
   name               = "terraform-elb"
-  availability_zones = data.aws_availability_zones.available
+  availability_zones = "data.aws_availability_zones.available"
   internal           = false
   load_balancer_type = "application"
 
