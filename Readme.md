@@ -2,7 +2,7 @@
 
 Corto DUFOUR FAKHOURI
 Jason GAUVIN
-Alex LELLOUCHE
+Alexandre LELLOUCHE
 Théo SABOT
 Edwin VAUTIER
 
